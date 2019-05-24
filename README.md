@@ -1,29 +1,21 @@
 # ifms-curso-front
 
-## Project setup
+## Setup do projeto
+
+- Clone o repositorio
+```
+git clone git@github.com:VictorCostaOliveira/ifms-vue.git
+```
+- Ou baixe o repositorio
+
+Então instale as dependências
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rode o servidor
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Abra seu projeto no navegador usando a url `localhost:8080`, que é a padrão do vue;
