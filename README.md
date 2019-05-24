@@ -2,11 +2,11 @@
 
 ## Setup do projeto
 
-- Clone o repositorio
+- Clone o repositorio, ou baixe o repositoria clicando em no botão vende ali em cima
+
 ```
 git clone git@github.com:VictorCostaOliveira/ifms-vue.git
 ```
-- Ou baixe o repositorio
 
 Então instale as dependências
 
